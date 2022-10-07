@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Tapestry';
+    src: url('../fonts/Tapestry-Regular.eot');
+    src: url('../fonts/Tapestry-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Tapestry-Regular.woff2') format('woff2'),
+        url('../fonts/Tapestry-Regular.woff') format('woff'),
+        url('../fonts/Tapestry-Regular.svg#Tapestry-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham';
+    src: url('../fonts/Gotham-Black.eot');
+    src: url('../fonts/Gotham-Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Gotham-Black.woff2') format('woff2'),
+        url('../fonts/Gotham-Black.woff') format('woff'),
+        url('../fonts/Gotham-Black.svg#Gotham-Black') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}

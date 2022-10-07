@@ -1,0 +1,62 @@
+.header {
+    .container {
+        .card {
+            .card-img-overlay {
+                .navbar {
+                    .container-fluid {
+                        .collapse {
+                            .ul {
+                                .navbar-nav {
+                                    .nav-item {
+                                        a {
+                                            border-radius: 20px;
+                                            &:hover {
+                                                background-color: #ffc107;
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+.whatWeDo {
+    .container {
+        .whatWeDo-texts {
+            max-width: 800px;
+            width: 100%;
+        }
+    }
+}
+
+.recentWorks {
+    .container {
+        .recentWorks-texts {
+            max-width: 800px;
+            width: 100%;
+        }
+    }
+}
+
+.latest {
+    .container {
+        .latest-texts {
+            max-width: 800px;
+            width: 100%;
+        }
+    }
+}
+
+.footer {
+    .container {
+        .footer-texts {
+            max-width: 800px;
+            width: 100%;
+        }
+    }
+}
